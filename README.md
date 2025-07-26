@@ -95,3 +95,7 @@ Covers all key areas of a Data Analyst role: cleaning, analysis, visualization, 
 Shows your ability to use industry tools in a realistic setting.
 
 Demonstrates your end-to-end thinking and attention to detail.
+
+
+
+use "pip install -r requirements.txt" to install requirement files 
